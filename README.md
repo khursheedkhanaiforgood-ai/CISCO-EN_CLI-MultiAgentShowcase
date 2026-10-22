@@ -4,7 +4,7 @@ A RAG-powered web app that translates network CLI commands between Cisco and Ext
 
 This repository describes the project. The source code is kept private.
 
-![Architecture](docs/images/architecture.svg)
+![Architecture](architecture.svg)
 
 ## The problem
 
